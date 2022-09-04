@@ -19,5 +19,7 @@ else
 printf("not palindrome\n");
 printf("------------------------------------------------\n");
 printf("aaaaaa\n");
+printf("bbbbb\n");
 return 0;  
-}   
+}  
+
