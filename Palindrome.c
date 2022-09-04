@@ -18,5 +18,6 @@ printf("palindrome number\n");
 else    
 printf("not palindrome\n");
 printf("------------------------------------------------\n");
+printf("aaaaaa\n");
 return 0;  
 }   
