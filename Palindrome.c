@@ -19,7 +19,10 @@ else
 printf("not palindrome\n");
 printf("------------------------------------------------\n");
 printf("aaaaaa\n");
+<<<<<<< HEAD
 printf("bbbbb\n");
 printf("ccccc\n");
+=======
+>>>>>>> c9745bd (Revert "changed in develop branch")
 return 0;  
 }   
